@@ -2,9 +2,9 @@
 
 Chào mừng bạn đến với kho tài nguyên **miễn phí** về các dự án liên quan đến **IoT**, **Embedded Systems**, và **AI**.  
 Tất cả được chia sẻ **phi thương mại** nhằm hỗ trợ sinh viên, kỹ sư và cộng đồng đam mê công nghệ!
-
+#### Nếu bạn đã cài Platform IO thì chỉ cần Download về => Vô VScode => File => Open Folder (Chọn folder source code bạn mới tải)=> Đợi khoảng 45 giây để Vscode Install thư viện cần thiết và các packages khác.
+#### Nếu chưa bạn cài Platform IO : Bạn tham khảo video sau : 👉 [YouTube Channel](https://www.youtube.com/watch?v=FuLRXgD9C2s)
 > 🔧 Dự án được xây dựng và duy trì bởi [**EoH JSC 🇻🇳**](https://e-ra.io/index.html)
-
 ---
 
 ## 📦 Phần cứng cần có
