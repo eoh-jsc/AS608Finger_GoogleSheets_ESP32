@@ -1,4 +1,4 @@
-# 🚀 Welcome to EoH | E-Ra IoT Platform | AI Project Collection
+# 🚀 Welcome to EoH | E-Ra IoT Platform | IoT Project Collection
 
 Chào mừng bạn đến với kho tài nguyên **miễn phí** về các dự án liên quan đến **IoT**, **Embedded Systems**, và **AI**.  
 Tất cả được chia sẻ **phi thương mại** nhằm hỗ trợ sinh viên, kỹ sư và cộng đồng đam mê công nghệ!
