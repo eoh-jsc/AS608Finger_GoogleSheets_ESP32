@@ -43,6 +43,21 @@ lib_deps =
 
 ---
 
+## Kết nối phần cứng
+Với dự án **ESP32 + cảm biến vân tay + LCD + relay**:
+
+| Thiết bị               | ESP32 GPIO |
+|------------------------|------------|
+| Cảm biến vân tay RX    | GPIO 17(Tx)|
+| Cảm biến vân tay TX    | GPIO 16(Rx)|
+| Relay                  | GPIO 18    |
+| Buzzer                 | GPIO 19    |
+| LCD SDA                | GPIO 21    |
+| LCD SCL                | GPIO 22    |
+
+> ⚠️ Lưu ý chọn đúng chân theo sơ đồ và có trở pull-up nếu cần.
+
+---
 ## 🔧 Cấu hình cần sửa trong mã nguồn
 
 Trong file `main.cpp`, thay thế các dòng sau bằng thông tin của bạn:
